@@ -1,5 +1,5 @@
 # Hi, I’m Miji :wave::woman_technologist:
-I'm a business systems analyst based in Melbourne, Australia.
+I'm a Senior Consultant - Data & AI based in Melbourne, Australia.
 
 <!---
 - 👀 I’m interested in data analysis and visualisation
